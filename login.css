@@ -1,0 +1,26 @@
+html
+{
+background-image:url('https://wallpaperboat.com/wp-content/uploads/2019/10/best-background-for-website-03.jpg');
+font-family: 'Josefin Sans', sans-serif;
+}
+
+h1
+{
+text-align: center;
+text-shadow: 2px;
+margin:250px auto;
+}
+.box
+{
+width:300px;
+height:130px;
+text-align:center;
+margin: -250px auto;
+border:2px solid black;
+padding:20px 10px 10px;
+}
+#register
+{
+text-align:center;
+margin: 220px auto;
+}
